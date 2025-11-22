@@ -1,6 +1,6 @@
 -  Hi, I’m @Dertonel
--  my hobbies are programming, boxing, bjj, and playing games.
--  I’m currently learning Python, and a bit of javascript if i can.
+-  my hobbies are Programming, Boxing, BJJ, and Playing games.
+-  I’m currently learning Python, and a bit of javascript.
 -  I’m looking to collaborate on web development, and some ai stuff.
 -  How to reach me @dertonel on instagram.
 -  Pronouns: he/him
