@@ -1,4 +1,4 @@
--  Hi, I’m @Dertonel
+-  Hi, I’m @Candrawinata
 -  my hobbies are Programming, Boxing, BJJ, and Playing games.
 -  I’m currently learning Python, and a bit of javascript.
 -  I’m looking to collaborate on web development, and some ai stuff.
